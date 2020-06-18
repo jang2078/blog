@@ -1,0 +1,13 @@
+[en]
+  title = "Jang's blog"
+  languageName = "English"
+  weight = 1
+  languagedir = "ltr"
+  contentdir = "content/en"
+
+[ko]
+  title = "Jang's blog"
+  languageName = "한국어"
+  weight = 2
+  languagedir = "ltr"
+  contentdir = "content/ko"
